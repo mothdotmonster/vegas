@@ -181,7 +181,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/737bd0b2-3b33-477a-936f-46a6dd7566bd")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW26" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 23786fa6-bef8-472e-b8a4-435ee1d1da6c)
@@ -233,7 +233,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/9d46742e-8472-45a8-baa3-0c747ca461b7")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW50" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d845ba10-eb93-4ea5-9abe-228ae82f9d1a)
@@ -285,7 +285,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/b5dc8edd-c786-4a3f-b206-421000a2c1fa")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW34" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 9044a327-80c0-4650-9954-4545e39f90d9)
@@ -337,7 +337,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/d0b2c889-11ae-4ba6-a949-c837387a0f45")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW27" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 22a4f023-e986-486c-8a6b-ca7d84867a6c)
@@ -389,7 +389,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/469f9172-3432-4991-a6aa-13c1853a3582")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW37" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 061de3e2-1ba6-4e13-90eb-c81d927a7df3)
@@ -441,7 +441,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/5243f3fb-4d05-40b1-af17-413bc2fa3fa3")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW71" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e7b55ff5-ae6b-4b5c-9dbb-d7de18db63d8)
@@ -493,7 +493,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/61a53de4-a26e-430a-ae5b-d096034e9d1c")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW63" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b5bc52eb-0b77-42a4-b387-b1a68816e1fe)
@@ -545,7 +545,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/a662758f-0f88-4dac-877a-5cfdf666ea58")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW64" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 1cc11f35-baee-437d-b189-5a49b0c8020e)
@@ -597,7 +597,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/318e0a5a-e1ca-47b3-913d-9ea65bbedacb")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW6" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6b721814-5114-40e4-a73b-8eac49b1e8ec)
@@ -649,7 +649,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/2b6fedf6-5122-4264-b013-7300e962b503")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW54" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 11e52eb5-3cc8-4aae-ac61-f5490c173c06)
@@ -724,7 +724,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/45cd3c55-2145-4a5f-bd55-d6b97097f395")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW41" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp fce81287-c884-4b90-9a24-c909947542da)
@@ -776,7 +776,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/e83c12f2-940b-4e78-bea3-bf23f30b420e")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW31" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 63e3c8ac-6eec-42bd-b928-afd0dbf24ff2)
@@ -828,7 +828,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/5f51685e-b4e5-4065-85f8-074e112efb84")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW5" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c21f3443-a5d1-452b-baf0-683deda62bd4)
@@ -880,7 +880,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/fd0b2088-c521-4b3f-972f-615da7b775d0")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW53" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 111b9c55-6777-4bf2-a35c-7b938a06f2b5)
@@ -932,7 +932,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/1bbe7ca3-ddcd-4d22-90ea-48ce46bf71a5")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW66" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b15c9b4f-fe84-4f3e-bc5c-9285ccb03a8b)
@@ -984,7 +984,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/d97abfef-7124-4bdc-9e30-544173135663")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW25" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3c427e48-37db-4bd6-8d39-d6e1a483e2a4)
@@ -1036,7 +1036,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/6db96d14-85b9-4004-951a-fd4f051be147")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW49" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp aa9e4601-315e-42a0-b0ff-cd76f25b9ce9)
@@ -1088,7 +1088,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/c7e1cd47-d4a8-4ce7-8c89-549b6742b452")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW16" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f7c48599-c899-4f41-bcfc-ea67a3dc0776)
@@ -1140,7 +1140,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/5efe4c97-3eb6-4b4f-95d5-ac31b1846076")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW32" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp cda9793d-fbf1-4fdb-9430-893f02534891)
@@ -1192,7 +1192,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/2e4a0c88-1f3f-47b0-8dca-f5054eb451b9")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW4" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7654c0b6-cf80-410f-b97e-d2ac5e973d31)
@@ -1244,7 +1244,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/1090b995-81d9-41a6-a8a8-60b7264e1ad7")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW13" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 71ac4ec9-64e5-4b62-9b5a-a792b377bb3c)
@@ -1296,7 +1296,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/770dd00e-0862-461c-b296-c6593b54630a")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW73" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 649d493d-d39b-4501-9ea4-6959dc848f65)
@@ -1348,7 +1348,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/0adfe3a3-fc6e-43ab-8830-3118b0a4e7b9")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW46" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bd8d8c20-2eb1-4797-b445-911e65eae565)
@@ -1400,7 +1400,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/2fb517cf-fe77-4bd4-bc0a-4094fa449425")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW29" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4f8ddc65-d37e-4e61-a21f-27c775d43ec5)
@@ -1452,7 +1452,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/1b224a4c-69c7-41f5-8af4-00f9663d009e")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW51" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 21ade7a5-5d26-4cd8-8ce8-99bc30fa7bad)
@@ -1504,7 +1504,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/97094cb3-102e-4dc5-89d1-f01e7e56006b")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW48" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bbf5f2f1-825e-4920-a9fa-bc762187f5f5)
@@ -1556,7 +1556,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/e8706cae-72de-4e52-8ce3-d632412a8c18")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW35" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2efaa9e5-40bb-4c98-9867-db715cc8bc81)
@@ -1608,7 +1608,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/9f5a3ec2-25cf-4f9d-afd2-1d74cf3edad9")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW1" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 31b665d8-2c64-43d0-8f0b-6a633d60ed5a)
@@ -1660,7 +1660,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/93a39385-cf2a-45aa-acb3-10f33f69720b")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW8" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e5d9927c-4337-4361-83b0-6445f52a6b7f)
@@ -1712,7 +1712,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/8193c51f-84f4-420d-b65c-f0800a3dabf5")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW72" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 06888504-5f12-4ad5-b7f3-87dd27d728cc)
@@ -1764,7 +1764,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/87fc9004-e880-4433-b619-323cce55d0f1")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW45" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3f8b8119-fb3f-4154-876f-85c67fd8e0fe)
@@ -1818,19 +1818,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 48865710-fa17-46ed-b660-9d0dccb2f613)
+      (tstamp 52f15bfb-5064-4f2f-af74-846ef655f54f)
     )
     (fp_text value "MountingHole_3.2mm_M3" (at 0 4.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 807520c6-27e1-4083-ad90-7e31c3e6bc30)
+      (tstamp c380a8a1-85b1-4983-9831-2888b059276a)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 987cc5b4-8c97-435c-9b1f-90673b6ab638)
+      (tstamp f4357b23-5086-4095-9b87-f8a6db3f8791)
     )
-    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 6f4b796a-896c-46bd-817f-8c895a0ba792))
-    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp ab73850b-763d-4de4-a953-cdc02bb2cd57))
-    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 11e6e560-1e6d-4747-9dd1-519e21a46ef3))
+    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 42d7514b-f994-417d-88f1-5df82366714b))
+    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp d098eaca-4df2-480f-9648-fdb28e4c158e))
+    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp b1ec02b6-b1a6-439a-96ef-1d9527266d81))
   )
 
   (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED" locked (layer "F.Cu")
@@ -1839,7 +1839,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/579e48ac-81eb-4200-a32e-8c16427536bf")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW20" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ab7285d6-fbac-4b4c-a040-545d58fd283d)
@@ -1891,7 +1891,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/c93cde79-0b84-42f5-92e8-cd6089a2c727")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW55" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 669924b6-b2f1-4064-9306-76e13d2ac02a)
@@ -1943,7 +1943,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/e03b1209-3480-4cef-ac28-00eca9249e84")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW57" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4870f6b0-8137-40d2-a577-31bab859b3ce)
@@ -1995,7 +1995,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/8254b7f5-ad58-4613-bc93-ac76e1a3e4d7")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW47" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ed6e11b1-dcc0-4d65-8bcb-c21ea3760229)
@@ -2047,7 +2047,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/93898f5a-34ae-48ac-b918-b071412094af")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW2" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 06dc6d44-7025-4208-834d-cfc6ab4585b1)
@@ -2099,7 +2099,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/6b60c2e4-28d8-49fd-aa12-95a1b410de72")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW62" (at 0 3.175) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7828a6c4-251e-43b4-b553-7f3d3536737a)
@@ -2155,7 +2155,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/b28f8924-16d8-4616-a3e7-120825e29e18")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW42" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7a94e03c-13cb-4dbc-835e-c1aa6424360c)
@@ -2207,7 +2207,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/c6570971-0f70-42ea-a42e-ccf82abacb9e")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW60" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c593a39c-05cd-4bfe-86c4-3345d2aca6e2)
@@ -2259,7 +2259,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/b8c1cf3b-c86f-49c1-a639-a9a3995895b8")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW11" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 3f166b54-b003-4a0e-b19d-33b8e1f6d055)
@@ -2311,7 +2311,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/420fd3f6-6b5e-4dcb-9c31-858ed78a9a2e")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW56" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 9df592c3-0ded-4789-8fab-355748f6273a)
@@ -2363,7 +2363,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/b65333ff-2c84-482c-a797-a66854094980")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW58" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 174b08cd-8656-417e-b772-0b7407cbfac4)
@@ -2415,7 +2415,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/8e90b3fc-4e6b-46aa-88a3-8a8b88caa3db")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW12" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 2f3d1328-e9fd-47ed-85f5-d51d21bb7416)
@@ -2467,7 +2467,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/be27ba32-78a3-4c8e-a965-ba9fd583d8c6")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW15" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 330cf6d3-e4eb-4702-ade6-f3fd8b72f17a)
@@ -2519,7 +2519,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/c01a8a0b-0c66-4b8a-8be0-da514815c456")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW52" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 4ca6ce0f-6607-4f64-9ea0-edda879c71b7)
@@ -2571,7 +2571,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/a19c331b-3cd0-48e4-a214-f3e384cdd89c")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW36" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d4bd562d-f170-44b8-80fd-52ed62a3754b)
@@ -2623,7 +2623,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/19ccdfb5-b530-442c-ad6d-73bc45e02dc9")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW28" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b442a40c-f392-44d6-a2bf-6c0ca2139e2a)
@@ -2675,7 +2675,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/719bb946-13ab-4715-8cdb-83b9a58305dd")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW9" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 85f6b798-8397-4f78-a438-fd43b6145000)
@@ -2727,7 +2727,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/e076cdf9-86cb-46e8-84a3-ddfd9e30f72d")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW30" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 9e564323-39f2-4b3a-a5b2-83dd0ba946c3)
@@ -2779,7 +2779,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/df750866-e6a3-4667-85d1-8dd01bdbfea4")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW68" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 78619c02-e665-4f6b-81de-3232e4e9e50b)
@@ -2831,7 +2831,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/1a2e6468-66db-4015-9a37-793763ecd632")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW61" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 82fed03b-1c9b-4d07-be38-dd5444fbfd1a)
@@ -2883,7 +2883,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/dce5f906-d8d5-4f1a-b2b5-dd231d96c77c")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW69" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7e5a1cfd-43b9-49e6-b22b-520f0909dc60)
@@ -2935,7 +2935,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/6f5cd225-0779-4321-930c-7043783c326f")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW17" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 75730fd0-09e1-486f-aec4-e2bd3a53b37e)
@@ -2987,7 +2987,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/7e87b54a-f614-46b5-b205-ef9705044093")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW19" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 353674f9-9eb2-48da-8cc5-87c910340bcd)
@@ -3039,7 +3039,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/4a981fe2-7983-4da4-98fa-0b6a262bc27f")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW38" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 7a70b77d-b491-4654-a1e1-24b774a2d90f)
@@ -3091,7 +3091,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/c7129555-2063-43d6-83f8-42f424ee0c4c")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW39" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 458ecad0-250a-4cb3-b4ee-63e6969e17b4)
@@ -3143,7 +3143,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/a004fba4-5a56-428f-89b3-7e597dff13b3")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW21" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c49757bf-611b-406c-80e4-6a1091206cbd)
@@ -3195,7 +3195,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/06a246a3-5d5a-4faa-a9f1-bdc39af9f24b")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW43" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp b7b6264d-d9a7-4b06-b5af-b57495f40630)
@@ -3247,7 +3247,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/68a23cf8-654a-4b10-8705-fca29606e3b0")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW40" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp fcaccec3-e092-4241-a06e-78673996ca37)
@@ -3299,7 +3299,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/8c645db3-791b-4dae-8bfe-2a2ee34ee370")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW3" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 41c594ef-7a5a-49b7-ae1c-bcdc4de70d2f)
@@ -3351,7 +3351,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/268f2a01-e9af-4a5f-8793-23e3e79c796a")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW33" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp be153127-51e2-42ee-a4dd-db40176c2b97)
@@ -3403,7 +3403,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/91ab9d56-95b4-4817-8e29-dc7e91bd2092")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW74" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ed3aed67-6a59-4b0c-92ba-0cd08e63c794)
@@ -3457,19 +3457,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 528b22c6-8d0f-4e94-9b13-25eee36fccce)
+      (tstamp 7d2a738d-07ef-4575-95c7-4ce4a8b2a5c5)
     )
     (fp_text value "MountingHole_3.2mm_M3" (at 0 4.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 05e4016d-90aa-4eba-851a-41de27289b1b)
+      (tstamp a2d3c759-5efe-463c-ba13-c8a1dcf2ebd8)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 2059e152-b0c3-4204-ad2e-f9bf15e6953d)
+      (tstamp 0e301ac3-51e1-49da-8ea9-46f073a2efda)
     )
-    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 34d17c37-39d7-4d51-b8d5-f356f20e0493))
-    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp b2291859-f351-411b-b0a0-2a1eb00b2626))
-    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp cc1671a5-3a48-4cbe-9f9f-f5af35dbfa92))
+    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 0defe3c1-7c41-4f49-8006-0cfdee94e79b))
+    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 7a0947ad-c2cf-4f8c-a5b6-1f2228858991))
+    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 353d04d3-3526-4ade-a1fb-e487620cd271))
   )
 
   (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED" locked (layer "F.Cu")
@@ -3478,7 +3478,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/17078851-d0b0-4047-9d12-51619da6c4b2")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW23" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f6580973-612b-4d17-a41a-e417176f573c)
@@ -3530,7 +3530,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/aa893db3-130a-4fa1-b192-07b24f85ab8b")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW65" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp bcd8f3f8-cf82-45cc-bd6e-b6b145a9b02f)
@@ -3584,19 +3584,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f12d23e0-a99f-45bd-9d41-0f35da822036)
+      (tstamp cfd128f2-d738-4287-bab0-10c5cbbd0345)
     )
     (fp_text value "MountingHole_3.2mm_M3" (at 0 4.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp f0a17285-3aae-423b-a0a0-a3495ce2bcc7)
+      (tstamp c2a0ee10-3bdb-409e-8975-a895e50fbbdf)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 16a04bcc-5040-4d6a-92f1-4f583a6fd553)
+      (tstamp 399e0fc3-a094-4e98-9705-f89810224a51)
     )
-    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 9cfb31f3-7832-4feb-b74d-f8526610f56d))
-    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 5222a62d-e18b-4247-9785-208a8ecf4192))
-    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 954d49be-f04a-4db5-8037-313b6bfeee92))
+    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 6518c4e7-2cea-4fb4-8c54-c341d8089d63))
+    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 713f32ce-1581-4008-a316-a2b726c5351d))
+    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 4bb0d3d0-8828-40ad-950e-fc70344e1c31))
   )
 
   (footprint "Keebio-Parts:MX-Alps-Choc-2U" locked (layer "F.Cu")
@@ -3605,7 +3605,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/01f27a37-615f-4c18-9ae3-d99e68151acf")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW75" (at 0 3.175 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c8c044be-d3db-4ea1-a6ff-711b4b56cf69)
@@ -3661,7 +3661,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/b0d42f85-ce27-407a-a4d8-99b6ad5b08de")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW67" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 8113e7c5-967a-4cdf-9c36-f911d183e909)
@@ -3713,7 +3713,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/20c5ab08-8c67-42a0-a0ff-309a2a56f215")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW18" (at 0 3.175) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 26303682-9ddf-469a-9875-797b623e269d)
@@ -3769,7 +3769,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/495564f7-7bca-4709-9ebf-24fd4b3eba7e")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW59" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp c3fe97e4-41f2-4d51-87d2-4bb73507d947)
@@ -3821,7 +3821,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/519b8e8c-a5eb-4d3c-83cb-6a8230851fe1")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW7" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp d11f00eb-1f72-43a8-91ba-7c5a2b6fda32)
@@ -3873,7 +3873,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/273fa3b6-8cf2-4ff2-a1c6-bbd53be78a00")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW24" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 913a152a-6a22-4d38-a340-194398b9dfc4)
@@ -3925,7 +3925,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/51e80eb7-f76a-45f5-8e1c-4d0f09262126")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW70" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 022deb51-c935-4333-8245-7dd965b8f7fc)
@@ -3977,7 +3977,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/cbece9a6-162e-47d7-8e25-466e76a042df")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW10" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ca6bb9fa-14a0-4d29-abfc-d21cafb1149c)
@@ -4029,7 +4029,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/6bdf782b-feab-46b8-ab77-ff36e6fda34c")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW14" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ac56a624-2566-4c36-b7c7-3b33df470ca6)
@@ -4081,7 +4081,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/ce1be558-ba59-4931-ae0a-7945dca284e0")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW22" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 77824fca-e1ca-43b8-81cb-7844211a254a)
@@ -4135,19 +4135,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp ab4255e7-06a0-4454-b9de-d3e7fd003645)
+      (tstamp 81981047-3ade-4c33-b364-fbf0ad36ae3d)
     )
     (fp_text value "MountingHole_3.2mm_M3" (at 0 4.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 41310018-8d4e-4107-aae2-5a18389c1f53)
+      (tstamp 98a13751-2779-49ed-8b50-5132ea390733)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 5c7aa622-975f-4921-ac5e-824849101fe1)
+      (tstamp 1565a3d4-7070-40ff-a066-890969b2e60d)
     )
-    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 255e819e-90e9-487a-98ed-7a471519928d))
-    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 702dccdc-8658-44c1-978e-43cfd18ee148))
-    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 76b8b659-22b9-44c2-9cd7-ef9e3e7c7781))
+    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 01d435ad-aba3-4b0d-9238-a0078e183cca))
+    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 2ad6658a-81d1-4890-aaeb-208246c3b2c7))
+    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 2b762d08-0cc4-4294-bc86-4b38b053d0af))
   )
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
@@ -4158,19 +4158,19 @@
     (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 -4.2) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 64da43d1-e52a-49c9-8cb4-397376eceb0f)
+      (tstamp 552084b8-84ad-4d08-9dd1-282193892192)
     )
     (fp_text value "MountingHole_3.2mm_M3" (at 0 4.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 1440f7c3-2cd9-425e-b46d-7845893901ea)
+      (tstamp 2e6924e8-61da-4a28-8305-d3e18a4fbf79)
     )
     (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
-      (tstamp 8df09319-9608-43db-beda-7995a5090104)
+      (tstamp 68aeffa4-8bb2-405e-a181-f46cd98055a5)
     )
-    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 19546e73-5dee-4fa2-b7f0-2b008f4104e7))
-    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 598d6a41-b953-4b40-91d7-f79af3714879))
-    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp e18e538e-8297-488d-9401-bf6c812446ff))
+    (fp_circle (center 0 0) (end 3.2 0) (layer "Cmts.User") (width 0.15) (fill none) (tstamp 75c79957-f140-4c9e-921d-e32875007c4c))
+    (fp_circle (center 0 0) (end 3.45 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 4fef0bc7-4021-460b-83d4-c7ae061405c8))
+    (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask) (tstamp 8144d233-6bfe-4fe1-bc90-113e7b272e07))
   )
 
   (footprint "Keebio-Parts:MX-Alps-Choc-1U-NoLED" locked (layer "F.Cu")
@@ -4179,7 +4179,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/c883af5c-5ab9-4c06-85e6-3bf17a71950e")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "SW44" (at 0 3.175) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 138eda74-16b2-4c01-8425-455b3a63cdfa)
@@ -7581,7 +7581,7 @@
     (property "Sheetfile" "vegas.kicad_sch")
     (property "Sheetname" "")
     (path "/b67237f2-786c-4207-a9ca-4c45b9cde07b")
-    (attr through_hole)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "U1" (at 0 -1.625 -270) (layer "B.SilkS") hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)) (justify mirror))
       (tstamp b4e8a137-0be5-4ac2-8a5c-88b36bf737ae)
@@ -8060,8 +8060,19 @@
   (gr_line locked (start 247.65 95.25) (end 247.65 76.2) (layer "Dwgs.User") (width 0.15) (tstamp cb611233-92bf-4955-bee0-c8a74e3ed2e4))
   (gr_line locked (start 42.8625 76.2) (end 21.43125 76.2) (layer "Dwgs.User") (width 0.15) (tstamp f11027a7-1934-48e5-b958-8ae86bc48da9))
   (gr_line locked (start 247.65 76.2) (end 247.65 57.15) (layer "Dwgs.User") (width 0.15) (tstamp f378a99d-904b-4e3e-a882-215e3584fbf9))
-  (gr_rect (start 19.05 19.05) (end 323.85 114.3) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 25df8896-5fc5-408a-9e90-0f0361aea2ba))
+  (gr_arc (start 21.59 114.3) (mid 19.793949 113.556051) (end 19.05 111.76) (layer "Edge.Cuts") (width 0.1) (tstamp 283b1820-fc51-404e-b543-1ca065cd75db))
+  (gr_line (start 21.59 114.3) (end 321.31 114.3) (layer "Edge.Cuts") (width 0.1) (tstamp 362a36f1-d527-4eb2-98e6-8fa2eeded6a1))
+  (gr_line (start 19.05 21.59) (end 19.05 111.76) (layer "Edge.Cuts") (width 0.1) (tstamp 4f01faa2-1a12-4be8-a4d5-68b337b508f3))
+  (gr_arc (start 19.05 21.59) (mid 19.793949 19.793949) (end 21.59 19.05) (layer "Edge.Cuts") (width 0.1) (tstamp 64eff8f8-09e5-4ff0-8aba-a7a8648d70fc))
+  (gr_line (start 321.31 19.05) (end 22.86 19.05) (layer "Edge.Cuts") (width 0.1) (tstamp 72a50e96-3e6f-46b9-b3f9-1619b8d81eef))
+  (gr_arc (start 323.85 111.76) (mid 323.106051 113.556051) (end 321.31 114.3) (layer "Edge.Cuts") (width 0.1) (tstamp d941630b-25c2-4a5b-9245-6abc3acd2457))
+  (gr_line (start 323.85 111.76) (end 323.85 21.59) (layer "Edge.Cuts") (width 0.1) (tstamp dbdef48a-2216-45bc-a269-6b7fb85b6ffa))
+  (gr_arc (start 321.31 19.05) (mid 323.106051 19.793949) (end 323.85 21.59) (layer "Edge.Cuts") (width 0.1) (tstamp f6699549-ef75-4613-8a64-03517b690f7d))
+  (gr_line (start 22.86 19.05) (end 21.59 19.05) (layer "Edge.Cuts") (width 0.1) (tstamp f8777e92-d918-4b4b-a284-ca120eb856ab))
   (gr_text "VEGAS v0.1.0 • CC-BY-SA moth.monster\nRemember the human, else you forget your humanity." (at 45.375 57.15) (layer "B.SilkS") (tstamp 903aa1e7-5ddc-40f8-a559-add6985748cb)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "JLCJLCJLCJLC" (at 314.96 36.83) (layer "B.SilkS") (tstamp c96a1009-88ed-4356-bb2c-d880b6dbb2b7)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
 
@@ -9442,6 +9453,19 @@
   (segment (start 311.825 43.625) (end 311.825 49.57) (width 0.25) (layer "B.Cu") (net 93) (tstamp bd51f036-5272-46dd-87eb-616f866738e6))
   (segment (start 313.725 60.775) (end 314.325 60.775) (width 0.25) (layer "B.Cu") (net 93) (tstamp dcb64c74-299d-4fa1-a9b6-460c77c8ab8a))
 
+  (group "" (id 8b3146ad-6b49-41be-a9be-3ee24101aa67)
+    (members
+      283b1820-fc51-404e-b543-1ca065cd75db
+      362a36f1-d527-4eb2-98e6-8fa2eeded6a1
+      4f01faa2-1a12-4be8-a4d5-68b337b508f3
+      64eff8f8-09e5-4ff0-8aba-a7a8648d70fc
+      72a50e96-3e6f-46b9-b3f9-1619b8d81eef
+      d941630b-25c2-4a5b-9245-6abc3acd2457
+      dbdef48a-2216-45bc-a269-6b7fb85b6ffa
+      f6699549-ef75-4613-8a64-03517b690f7d
+      f8777e92-d918-4b4b-a284-ca120eb856ab
+    )
+  )
   (group "" locked (id b1f352b6-b2c7-4fa7-bfee-90947420e56c)
     (members
       00790348-b80b-49ab-8a26-d3eba044ed69
@@ -9607,6 +9631,16 @@
       f86deb6c-b53a-4a89-832a-4d25fa1dc6ea
       fba5301b-f9b6-446b-aa8a-3780cfd13be1
       fde17289-7c8d-4c2d-818e-f50663223198
+    )
+  )
+  (group "" (id cfb7526e-9885-4e85-917a-5f72a315f969)
+    (members
+      1ce36ed3-f90e-4eb6-880d-70a36941a357
+      5d8dcdff-e6e8-4ef2-b8f0-7d15d4ef8e3c
+      d0e49be4-02b2-4e74-adf8-bd4cf3776ab8
+      db217722-73a1-475d-99af-b9c294c4722c
+      f6a75c4e-41fb-407b-a3f7-35d54fb2d2e7
+      fbd0fb0e-bd03-411f-88cb-56bb474f0072
     )
   )
 )
