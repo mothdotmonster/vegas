@@ -1,5 +1,5 @@
-# WARNING
-this design has not yet been tested and may not function as intended.
+# VEGAS
 
-# vegas
-point of sale inspired keyboard PCB
+![keyboard](https://i.imgur.com/VFN43xa.jpg)
+
+Point of sale inspired keyboard with a unique layout.
